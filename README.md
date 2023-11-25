@@ -1,5 +1,5 @@
-[![Dragnilar's GitHub stats](https://github-readme-stats.vercel.app/api?username=dragnilar)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dragnilar)](https://github.com/anuraghazra/github-readme-stats)
+[![Dragnilar's GitHub stats](https://github-readme-stats.vercel.app/api?username=dragnilar&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dragnilar&layout=donut&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **dragnilar/dragnilar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
